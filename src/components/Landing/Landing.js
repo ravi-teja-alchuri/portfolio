@@ -137,7 +137,7 @@ function Landing() {
                     style={{
                         opacity: `${drawerOpen ? '0' : '1'}`,
                         borderColor: theme.secondary,
-                        filter: `grayscale(100%)`,
+                        filter: `grayscale(50%)`,
                     }}
                 />
                 <div

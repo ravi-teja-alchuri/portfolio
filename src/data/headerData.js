@@ -1,6 +1,6 @@
 import resume from '../assets/pdf/raviteja_alchuri_resume.pdf'
 import resume_doc from '../assets/doc/raviteja_SrSoftwareDev.docx'
-import display_pic from '../assets/display_pic.jpg'
+import display_pic from '../assets/RaviTejaDP.png'
 export const headerData = {
     name: 'Ravi Teja Alchuri',
     firstName: 'Ravi Teja',
